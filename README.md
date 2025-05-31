@@ -20,3 +20,11 @@
 4. Acesso ao AWS Amplify para:
    - Selecionar o provedor GitHub
    - Conectar ao repositório `meu-site-web
+
+
+![image](https://github.com/user-attachments/assets/abce2b16-05fb-462d-9fef-fa19c946603d)
+
+https://main.dx6oei6kp5wrl.amplifyapp.com/
+
+![image](https://github.com/user-attachments/assets/445555b9-55ee-49bd-b26a-d1901cd19f3c)
+
